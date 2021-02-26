@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mohitshamania/static/css/main.21a26e9a.chunk.css",
-    "main.js": "/mohitshamania/static/js/main.20ee33f4.chunk.js",
-    "main.js.map": "/mohitshamania/static/js/main.20ee33f4.chunk.js.map",
+    "main.css": "/mohitshamania/static/css/main.c840c4c9.chunk.css",
+    "main.js": "/mohitshamania/static/js/main.81ca6dd4.chunk.js",
+    "main.js.map": "/mohitshamania/static/js/main.81ca6dd4.chunk.js.map",
     "runtime-main.js": "/mohitshamania/static/js/runtime-main.5daa26e2.js",
     "runtime-main.js.map": "/mohitshamania/static/js/runtime-main.5daa26e2.js.map",
     "static/css/2.2f9ba80b.chunk.css": "/mohitshamania/static/css/2.2f9ba80b.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.c5113527.chunk.js.map": "/mohitshamania/static/js/2.c5113527.chunk.js.map",
     "index.html": "/mohitshamania/index.html",
     "static/css/2.2f9ba80b.chunk.css.map": "/mohitshamania/static/css/2.2f9ba80b.chunk.css.map",
-    "static/css/main.21a26e9a.chunk.css.map": "/mohitshamania/static/css/main.21a26e9a.chunk.css.map",
+    "static/css/main.c840c4c9.chunk.css.map": "/mohitshamania/static/css/main.c840c4c9.chunk.css.map",
     "static/js/2.c5113527.chunk.js.LICENSE.txt": "/mohitshamania/static/js/2.c5113527.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5daa26e2.js",
     "static/css/2.2f9ba80b.chunk.css",
     "static/js/2.c5113527.chunk.js",
-    "static/css/main.21a26e9a.chunk.css",
-    "static/js/main.20ee33f4.chunk.js"
+    "static/css/main.c840c4c9.chunk.css",
+    "static/js/main.81ca6dd4.chunk.js"
   ]
 }
